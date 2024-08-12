@@ -1,0 +1,12 @@
+{
+  "name": "com.trashpandaboy.data",
+  "version": "1.0.0",
+  "displayName": "TPDataStructures",
+  "description": "Some data structures utils for Unity",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "TrashPandaBoy",
+    "url": "https://github.com/trashpandaboy"
+  }
+}
