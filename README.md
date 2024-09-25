@@ -10,12 +10,7 @@ TPDataStructures is a Unity package for managing a collection of heterogeneous d
 
 ## Installation
 
-To install this package in your Unity project, follow these steps:
-
-1. Open your Unity project.
-2. Go to `Window` > `Package Manager`.
-3. Click on the `+` button and select `Add package from git URL...`.
-4. Enter the URL of the repository and click `Add`.
+To install this package in your Unity project use the unity Package Manager
 
 ## Usage
 
